@@ -1,6 +1,6 @@
 spring:
   application:
-    name: CATEGORIA-SERVICE
+    name: categoria-service
 
   jpa:
     hibernate:
