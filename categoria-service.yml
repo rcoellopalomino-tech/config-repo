@@ -3,7 +3,7 @@ server:
 
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/bd_categoria
+    url: jdbc:mysql://localhost:3306/bd_categoria_dev
     username: root
     password:
 
