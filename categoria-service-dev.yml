@@ -4,7 +4,7 @@ server:
 spring:
 
   application:
-    name: CATEGORIA-SERVICE
+    name: categoria-service
 
   datasource:
     url: jdbc:mysql://localhost:3306/bd_categoria_dev
